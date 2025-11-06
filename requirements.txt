@@ -1,0 +1,28 @@
+# Core dependencies
+jaclang>=0.7.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# GitHub and Git operations
+gitpython>=3.1.40
+pygithub>=2.1.1
+
+# Code parsing
+tree-sitter>=0.20.4
+tree-sitter-python>=0.20.4
+
+# Documentation generation
+markdown>=3.5.1
+pymdown-extensions>=10.5
+
+# LLM providers
+openai>=1.6.0
+google-generativeai>=0.3.0
+
+# Utilities
+pyyaml>=6.0.1
+pathspec>=0.11.2
+
+# Optional: Frontend
+streamlit>=1.29.0
+streamlit-chat>=0.1.1
