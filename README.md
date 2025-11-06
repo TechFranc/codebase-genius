@@ -388,4 +388,4 @@ This project is for educational purposes as part of an assignment.
 
 **Made with ❤️ by Codebase Genius**
 
-For questions or issues, please check the troubleshooting section or review the assignment documentation.
+For questions or issues, please check the troubleshooting section.
